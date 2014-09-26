@@ -6,9 +6,9 @@ from urllib2 import urlopen
 from timeit import Timer
 
 #####################################
-geckoboard_key = 'e29866a84fb812b20ccce0c049aa9f9d' #geckoboard api key, find from geckoboard portal
-appId = '519d53101386202089000007' #appid of crittercism registered app
-access_token = 'h5OAHm0Kz5iqwfRMYMCdHMyJkT0K6PBs' #request access_token by using the provided client id
+geckoboard_key = 'EDIT ME!' #geckoboard api key, find from geckoboard portal
+appId = 'EDIT ME!' #appid of crittercism registered app
+access_token = 'EDIT ME!' #request access_token by using the provided client id
 #####################################
 
 #get and push api status
