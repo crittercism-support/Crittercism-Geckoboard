@@ -1,7 +1,7 @@
 Crittercism-Geckoboard Integration
 ======================
 
-This serves as a sample proof of concept to show some of the things the Crittercism API can do when combined with another BI tool. A screenshot of the Geckoboard dashboard can be seen here: [Click Me!]([Imgur](http://i.imgur.com/E7qOIjd.png).
+This serves as a sample proof of concept to show some of the things the Crittercism API can do when combined with another BI tool. A screenshot of the Geckoboard dashboard can be seen here: [Click Me!](http://i.imgur.com/E7qOIjd.png).
 
 This script utilizes the unirest and urllib2 libraries.
 
